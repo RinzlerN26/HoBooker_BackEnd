@@ -16,14 +16,17 @@ The backend for a MERN based property booking web app.
 ### Installation
 
 1. Clone the repo.
+   
    ```sh
    git clone https://github.com/RinzlerN26/News_Aggregator.git
    ```  
-2. Install npm packages.
+3. Install npm packages.
+   
    ```sh
    npm install
    ```
-3. Run the application.
+5. Run the application.
+   
     ```sh
    npm run start
    ```  
