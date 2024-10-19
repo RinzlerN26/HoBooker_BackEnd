@@ -18,7 +18,7 @@ The backend for a MERN based property booking web app.
 1. Clone the repo.
    
    ```sh
-   git clone https://github.com/RinzlerN26/News_Aggregator.git
+   git clone https://github.com/RinzlerN26/HoBooker_BackEnd.git
    ```  
 3. Install npm packages.
    
