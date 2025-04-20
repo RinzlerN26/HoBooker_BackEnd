@@ -21,12 +21,12 @@ The backend for a MERN based property booking web app.
    ```sh
    git clone https://github.com/RinzlerN26/HoBooker_BackEnd.git
    ```  
-3. Install npm packages.
+2. Install npm packages.
    
    ```sh
    npm install
    ```
-5. Run the application.
+3. Run the application.
    
     ```sh
    npm run start
